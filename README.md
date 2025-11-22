@@ -4,10 +4,10 @@ A personal portfolio showcasing interactive animations and illustrations built w
 
 ✨Technologies
 
-React 
-Tailwind CSS
-Framer Motion
-Rive / Lottie 
+• React 
+• Tailwind CSS
+• Framer Motion
+• Rive / Lottie 
 
 
 📍The Process
